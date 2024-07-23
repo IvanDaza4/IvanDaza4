@@ -40,7 +40,8 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-D5B990?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>¡Transforma tus eventos en experiencias inolvidables!</strong> Organiza mejor tus eventos y asegura el exito en cada detalle .</p>
+<p>Descubre nuestra exclusiva colección de <strong>zapatos personalizados</strong> para mayoristas, diseñados a medida para destacar en tu tienda.</p>
+<br>
 </div>                                                             
 </table>                                                                                 
 </div>
