@@ -19,7 +19,7 @@
 <div align="center">
 <a href="https://github.com/IvanDaza4/eventum" target="_blank"><img src="https://i.imgur.com/9K8ZdsQ.png" width="400" alt="EVENTUM WEB"></a>
 <p>
-<a href="https://github.com/IvanDaza4/eventum" target="_blank">
+<a href="https://github.com/IvanDaza4/EventumPage" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-76A4D3?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
