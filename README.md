@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=200&section=header&text=Iv%C3%A1n%20Daza&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20IT%20Manager%20%C2%B7%20Buenos%20Aires&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Iván Daza">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=200&section=header&text=Iv%C3%A1n%20Daza&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20IT%20%C2%B7%20Buenos%20Aires&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Iván Daza">
 </p>
 
 <p align="center">
   <a href="https://portfolio-jade-ten-57.vercel.app/resume">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=620&lines=IT+Manager+%40+Ingnala+S.A.;Full-Stack+Developer+%C2%B7+Next.js+%2B+Supabase;Datos%2C+BI+y+automatizaci%C3%B3n;IA+aplicada+a+procesos+reales;Del+problema+al+producto" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=620&lines=IT%40+Ingnala+S.A.;Full-Stack+Developer+%C2%B7+Next.js+%2B+Supabase;Datos%2C+BI+y+automatizaci%C3%B3n;IA+aplicada+a+procesos+reales;Del+problema+al+producto" alt="Typing SVG">
   </a>
 </p>
 
