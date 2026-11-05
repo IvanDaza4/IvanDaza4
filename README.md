@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://portfolio-jade-ten-57.vercel.app/resume"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/dazaIvan><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dazaIvan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
   <a href="mailto:ivandaza2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"></a>
 </p>
 
